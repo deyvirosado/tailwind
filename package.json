@@ -1,0 +1,21 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Practicas de Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "postcss src/css/tailwind.css --output public/css/tailwind.css",
+    "watch": "tailwindcss -i src/css/tailwind.css --output public/css/tailwind.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.18"
+  },
+  "dependencies": {
+    "postcss-cli": "^9.1.0"
+  }
+}
