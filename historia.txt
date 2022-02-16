@@ -7,3 +7,5 @@ Aqui hablaremos de su historia
 En camara parece alto, pero en reealidad no es tan alto
 
 Hoy es el programador de Vasanta
+
+borrado la linea 11
